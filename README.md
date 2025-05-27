@@ -59,7 +59,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Wokwi - Simulador Arduino/ESP32](https://wokwi.com/)
 - [VR Vex Robotics](https://vr.vex.com/)
 - [Circuito.io](https://circuito.io/)
-
+- [Portas Lógicas circuito](https://www.build-electronic-circuits.com/7400-series-integrated-circuits/).
 ---
 
 ## 💻 Ferramentas de Produtividade e TI
