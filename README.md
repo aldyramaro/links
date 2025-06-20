@@ -25,6 +25,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Stanser - Vetores Religiosos](https://www.stanser.com/categoria-vector/articulos-religiosos/)
 - [DesignBundles - Free SVGs](https://designbundles.net/free-design-resources/free-svgs)
 - [SVGRepo](https://www.svgrepo.com/)
+- [Otimizar SVG](https://jakearchibald.github.io/svgomg/)
 
 ### 🧩 Geradores de Quebra-Cabeça
 - [Vetor e Arte - Quebra-Cabeça](https://vetorearte.com.br/ferramentas/gerador-de-quebra-cabeca-quadrado/)
