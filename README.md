@@ -46,6 +46,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Voronoi Editor](https://voronoi-editor.web.app/)
 - [Voronator](https://www.voronator.com/)
 - [Halftone Generator](https://halftone.xoihazard.com/)
+- [Imagem to STL](https://imagetostl.com/pt)
 
 ---
 
