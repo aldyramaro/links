@@ -64,7 +64,12 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 ---
 
 ## 💻 Ferramentas de Produtividade e TI
-
+- [Simulador Bios](https://www.grs-software.de/sims/bios/phoenix/pages/)
+- [Phenix Bios](https://pranx.com/bios/)
+- [Lenovo](https://download.lenovo.com/bsco/index.html#/)
+- [Lenovo Legacy](https://download.lenovo.com/bsco/legacy/)
+- [Bios simulator](https://appro.mit.jyu.fi/tools/biossimu/simu.html)
+- 
 ### 🛠️ Sysinternals
 - [RAMMap](https://learn.microsoft.com/pt-br/sysinternals/downloads/rammap)
 - [Process Explorer](https://learn.microsoft.com/pt-br/sysinternals/downloads/process-explorer)
