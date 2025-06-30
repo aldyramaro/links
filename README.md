@@ -74,7 +74,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Lenovo Legacy](https://download.lenovo.com/bsco/legacy/)
 - [Bios simulator](https://appro.mit.jyu.fi/tools/biossimu/simu.html)
 - [UML e BPM](https://plantuml.com/)
-- 
+- [Testador de Teclado](https://www.testarteclado.com.br/)
 - 
 ### 🛠️ Sysinternals
 - [RAMMap](https://learn.microsoft.com/pt-br/sysinternals/downloads/rammap)
