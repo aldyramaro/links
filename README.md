@@ -115,6 +115,8 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Epic Kingdom - Miniaturas](https://epickingdom.wordpress.com/2014/05/02/biblioteca-de-miniaturas-e-tokens-de-papel-epic-kingdom-rpg/)
 
 ---
+### 3d stl/obj
+-[Prusa](https://www.printables.com/model)
 
 ## 🔗 Outros Links Úteis
 
