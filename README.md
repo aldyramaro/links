@@ -75,7 +75,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Bios simulator](https://appro.mit.jyu.fi/tools/biossimu/simu.html)
 - [UML e BPM](https://plantuml.com/)
 - [Testador de Teclado](https://www.testarteclado.com.br/)
-- 
+- [Gerador de XML windows](https://schneegans.de/windows/unattend-generator/)
 ### 🛠️ Sysinternals
 - [RAMMap](https://learn.microsoft.com/pt-br/sysinternals/downloads/rammap)
 - [Process Explorer](https://learn.microsoft.com/pt-br/sysinternals/downloads/process-explorer)
