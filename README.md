@@ -65,6 +65,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [VR Vex Robotics](https://vr.vex.com/)
 - [Circuito.io](https://circuito.io/)
 - [Portas Lógicas circuito](https://www.build-electronic-circuits.com/7400-series-integrated-circuits/).
+- [Resistores](https://www.dannyg.com/examples/res2/resistor.htm)
 ---
 
 ## 💻 Ferramentas de Produtividade e TI
