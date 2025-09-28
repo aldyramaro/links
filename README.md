@@ -15,6 +15,8 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Boxes - Hackerspace Bamberg](https://boxes.hackerspace-bamberg.de/SlantedTray?language=en)
 - [Laserbiz - Integrated Hinge Box](https://box.laserbiz.ru/IntegratedHingeBox?language=en)
 - [box py](https://boxes.hackerspace-bamberg.de/boxes.py)
+- [Make a Box](https://makeabox.io/)
+- [jeromeleary](https://jeromeleary.com/laser/)
 
 ### ⬇️ Downloads de Arquivos DXF/SVG
 - [VetorMaker](https://vetormaker.com.br/index.php)
@@ -52,6 +54,8 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Poster](https://rasterbator.net/)
 - [Posterizer](https://posterizer.online/rasterbator/)
 - [Coverter em 3d](https://www.meshy.ai/)
+- [Laser Cut](https://adashrod.github.io/LaserCutMazes/welcome)
+- [Régua](https://robbbb.github.io/VectorRuler/)
 ---
 
 ## 🎨 Design e Pixel Art
