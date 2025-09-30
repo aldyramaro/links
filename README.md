@@ -83,6 +83,8 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [UML e BPM](https://plantuml.com/)
 - [Testador de Teclado](https://www.testarteclado.com.br/)
 - [Gerador de XML windows](https://schneegans.de/windows/unattend-generator/)
+- [Redes](https://router-network.com/pt)
+
 ### 🛠️ Sysinternals
 - [RAMMap](https://learn.microsoft.com/pt-br/sysinternals/downloads/rammap)
 - [Process Explorer](https://learn.microsoft.com/pt-br/sysinternals/downloads/process-explorer)
@@ -121,6 +123,11 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 ### 🎲 Assets para RPG
 - [Epic Kingdom - Miniaturas](https://epickingdom.wordpress.com/2014/05/02/biblioteca-de-miniaturas-e-tokens-de-papel-epic-kingdom-rpg/)
 
+## 🎮 Jogos Educacionais
+[Jogos educacionais](http://hvirtua.com/jogoseducativos)
+[Esp e arduino](http://steamakersblocks.com/)
+[Códigos par escola](http://ide.codeskool.cc/)
+
 ---
 ### 3d stl/obj
 -[Prusa](https://www.printables.com/model)
@@ -138,4 +145,4 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [MapaMental.app](https://mapamental.app/?src=yt)
 
 ---
-**📌 Última atualização**: 02/01/2025
+**📌 Última atualização**: 
