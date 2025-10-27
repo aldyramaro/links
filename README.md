@@ -51,6 +51,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Halftone Generator](https://halftone.xoihazard.com/)
 - [Imagem to STL](https://imagetostl.com/pt)
 - [Chaveiros](https://text-to-stl.kady3dprinting.com/)
+- [Chaveiro cuttle](https://cuttle.xyz/dashboard)
 - [Poster](https://rasterbator.net/)
 - [Posterizer](https://posterizer.online/rasterbator/)
 - [Coverter em 3d](https://www.meshy.ai/)
