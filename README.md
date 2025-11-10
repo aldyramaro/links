@@ -102,6 +102,14 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 ## 🤖 IA e Ferramentas de Texto
 - [Conjunto de IA](https://www.toolify.ai/)
 - [Desenhho](https://ideogram.ai/t/explore)
+- [Napkin desenho para slides](https://app.napkin.ai/)
+- [GPT](https://chatgpt.com/)
+- [NotebookLM](https://notebooklm.google.com/)
+- [Gemini](https://gemini.google.com/app)
+- [DeepSeek](https://chat.deepseek.com/)
+- [Copilot](https://copilot.microsoft.com/)
+- [Perplexity](https://www.perplexity.ai/)
+  [Gerador de Imagens](https://ideogram.ai/t/explore)
   
 ### 🔍 Detectores de IA
 - [ZeroGPT](https://www.zerogpt.com/pt)
