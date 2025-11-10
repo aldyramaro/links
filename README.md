@@ -100,7 +100,8 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 ---
 
 ## 🤖 IA e Ferramentas de Texto
-- [COnjunto de IA](https://www.toolify.ai/)
+- [Conjunto de IA](https://www.toolify.ai/)
+- [Desenhho](https://ideogram.ai/t/explore)
   
 ### 🔍 Detectores de IA
 - [ZeroGPT](https://www.zerogpt.com/pt)
