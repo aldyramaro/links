@@ -38,6 +38,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [RapidResizer - Tracer](https://online.rapidresizer.com/tracer.php)
 - [Kittl - Vectorizer](https://www.kittl.com/tools/vectorizer)
 - [PictureToPeople - Sketch Effect](https://www.picturetopeople.org/photo_sketch/pen-ink-engraved-drawing-photo-effect-editor.html)
+- [Converter PPTX para google slides](https://slidespeak.co/pt-br/ferramentas-gratuitas/converter-powerpoint-em-google-slides)
 
 ### 🗺️ Mapas e Terrenos para Laser
 - [LaserMapMaker](https://lasermapmaker.com/?via=brandon)
