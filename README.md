@@ -29,6 +29,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [DesignBundles - Free SVGs](https://designbundles.net/free-design-resources/free-svgs)
 - [SVGRepo](https://www.svgrepo.com/)
 - [Otimizar SVG](https://jakearchibald.github.io/svgomg/)
+- [Free-dxf](https://free-dxf.com/)
 
 ### 🧩 Geradores de Quebra-Cabeça
 - [Vetor e Arte - Quebra-Cabeça](https://vetorearte.com.br/ferramentas/gerador-de-quebra-cabeca-quadrado/)
