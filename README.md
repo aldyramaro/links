@@ -7,6 +7,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 ## 🔧 Ferramentas para Corte a Laser/CNC e Vetores
 
 ### 📦 Geradores de Caixas
+- [Atomm](https://www.atomm.com/generator/boxes)
 - [Festi.info - Boxes.py](https://www.festi.info/boxes.py/?language=en)
 - [Vetor e Arte - Gerador de Caixas](https://vetorearte.com.br/ferramentas/gerador-de-caixas/)
 - [Box.Laserbiz.ru](https://box.laserbiz.ru/?language=en)
