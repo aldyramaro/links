@@ -18,6 +18,8 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [box py](https://boxes.hackerspace-bamberg.de/boxes.py)
 - [Make a Box](https://makeabox.io/)
 - [jeromeleary](https://jeromeleary.com/laser/)
+- [Pacdora](https://www.pacdora.com/tools/box-template-maker)
+- [Bento](https://bento3d.design/tray)
 
 ### ⬇️ Downloads de Arquivos DXF/SVG
 - [VetorMaker](https://vetormaker.com.br/index.php)
