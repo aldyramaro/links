@@ -134,8 +134,8 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 ---
 
 ## 🎮 Jogos e RPG
-[Roms](https://vimm.net/)
-[Roms-fun](https://romsfun.com/)
+- [Roms](https://vimm.net/)
+- [Roms-fun](https://romsfun.com/)
 
 ### 🗺️ Geradores de Mapas/Dungeons
 - [Watabou - One Page Dungeon](https://watabou.github.io/one-page-dungeon/?seed=360718874)
@@ -145,15 +145,17 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Epic Kingdom - Miniaturas](https://epickingdom.wordpress.com/2014/05/02/biblioteca-de-miniaturas-e-tokens-de-papel-epic-kingdom-rpg/)
 
 ## 🎮 Jogos Educacionais
-[Jogos educacionais](http://hvirtua.com/jogoseducativos)
-[Esp e arduino](http://steamakersblocks.com/)
-[Códigos par escola](http://ide.codeskool.cc/)
+- [Jogos educacionais](http://hvirtua.com/jogoseducativos)
+- [Esp e arduino](http://steamakersblocks.com/)
+- [Códigos par escola](http://ide.codeskool.cc/)
 
 ---
 ### 3d stl/obj
--[Prusa](https://www.printables.com/model)
--[Grid Mesh](https://grid.space/mesh/)
--[Sculp](https://stephaneginier.com/sculptgl/)
+- [Prusa](https://www.printables.com/model)
+- [Grid Mesh](https://grid.space/mesh/)
+- [Sculp](https://stephaneginier.com/sculptgl/)
+- [3dview](https://3dviewer.net/)
+
 
 ## 🔗 Outros Links Úteis
 
