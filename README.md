@@ -156,6 +156,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Sculp](https://stephaneginier.com/sculptgl/)
 - [3dview](https://3dviewer.net/)
 - [blockbench](https://web.blockbench.net/)
+- [Criar atraves imagem](https://www.krea.ai/3d)
 
 
 ## 🔗 Outros Links Úteis
