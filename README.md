@@ -155,6 +155,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Grid Mesh](https://grid.space/mesh/)
 - [Sculp](https://stephaneginier.com/sculptgl/)
 - [3dview](https://3dviewer.net/)
+- [view stl](https://www.viewstl.com/)
 - [blockbench](https://web.blockbench.net/)
 - [Criar atraves imagem](https://www.krea.ai/3d)
 
