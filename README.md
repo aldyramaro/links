@@ -93,6 +93,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Testador de Teclado](https://www.testarteclado.com.br/)
 - [Gerador de XML windows](https://schneegans.de/windows/unattend-generator/)
 - [Redes](https://router-network.com/pt)
+- [Impressoras Código de Erro](https://printcopy.info/)
 
 ### 🛠️ Sysinternals
 - [RAMMap](https://learn.microsoft.com/pt-br/sysinternals/downloads/rammap)
