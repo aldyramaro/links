@@ -117,7 +117,8 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [DeepSeek](https://chat.deepseek.com/)
 - [Copilot](https://copilot.microsoft.com/)
 - [Perplexity](https://www.perplexity.ai/)
-  [Gerador de Imagens](https://ideogram.ai/t/explore)
+- [Gerador de Imagens](https://ideogram.ai/t/explore)
+- [Muitas IAs](https://huggingface.co/models)
   
 ### 🔍 Detectores de IA
 - [ZeroGPT](https://www.zerogpt.com/pt)
