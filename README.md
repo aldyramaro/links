@@ -151,6 +151,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Jogos educacionais](http://hvirtua.com/jogoseducativos)
 - [Esp e arduino](http://steamakersblocks.com/)
 - [Códigos par escola](http://ide.codeskool.cc/)
+- [Link de jogos](https://aluno.escoladigital.pr.gov.br/games)
 
 ---
 ### 3d stl/obj
