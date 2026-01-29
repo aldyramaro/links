@@ -34,6 +34,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Otimizar SVG](https://jakearchibald.github.io/svgomg/)
 - [Free-dxf](https://free-dxf.com/)
 - [DFX for CNC](https://www.dxfforcnc.com/)
+- [CAD online](https://zoo.dev/design-studio/download)
 
 ### 🧩 Geradores de Quebra-Cabeça
 - [Vetor e Arte - Quebra-Cabeça](https://vetorearte.com.br/ferramentas/gerador-de-quebra-cabeca-quadrado/)
