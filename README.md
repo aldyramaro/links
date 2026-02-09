@@ -122,6 +122,16 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Perplexity](https://www.perplexity.ai/)
 - [Gerador de Imagens](https://ideogram.ai/t/explore)
 - [Muitas IAs](https://huggingface.co/models)
+- [ChatGPT](https://chat.openai.com)
+- [Gemini](https://gemini.google.com)
+- [Claude](https://claude.ai)
+- [Copilot](https://copilot.microsoft.com)
+- [Grok](https://x.ai/grok)
+- [Perplexity](https://perplexity.ai)
+- [Llama](https://huggingface.co/meta-llama)
+- [Mistral](https://huggingface.co/mistralai)
+- [Qwen](https://huggingface.co/Qwen)
+- [DeepSeek](https://huggingface.co/deepseek-ai)
   
 ### 🔍 Detectores de IA
 - [ZeroGPT](https://www.zerogpt.com/pt)
