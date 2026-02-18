@@ -146,7 +146,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Fluxograma BPM](https://mermaid.live/edit#pako:eNpVjbFugzAQhl_FuqmVIAICGHmo1JA2S6R2yFTIcAIHowQbGaM0Bd69hqhqe9Odvu__b4BClRwYnC7qWgjUhhy2uSR2nrNU6LozDXZH4rpP444b0ijJbyPZPOwU6YRq21pWj3d_M0skHfazxokRtTxPd5Qu-TfJR7LN9tga1R7_ksNVjeQlq9-Frf9PhOY29ZqdkJ3QLVCTFPWigAOVrktgRvfcgYbrBucThpnmYARveA7MriXqcw65nGymRfmhVPMT06qvBNjuS2evvi3R8G2NlcZfhcuS61T10gDz6VIBbIBPYEHorUJ_7VM_igNK49iBG7DQX8UJDWkSBWHkecF6cuBr-emtEhpN30ERcsI)
 - [Tldraw](https://www.tldraw.com/)
 - [Excalidraw](https://excalidraw.com/)
-
+-[Dia](https://app.diagrams.net/)
 - [Mapas Mentais markdown](https://markmap.js.org/repl)
 ---
 
