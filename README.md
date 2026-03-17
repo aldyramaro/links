@@ -196,5 +196,8 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 ### 🧠 Mapas Mentais
 - [MapaMental.app](https://mapamental.app/?src=yt)
 
+### Minecraft
+-[Chunkbase](https://www.chunkbase.com/apps)
+-[Seeds](https://www.seeds.gg/dungeon-finder)
 ---
 **📌 Última atualização**: 
