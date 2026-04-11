@@ -183,6 +183,9 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Criar atraves imagem](https://www.krea.ai/3d)
 - [Chaveiro tag](https://keychain-generator.vercel.app/)
 
+## Aulas
+-[Portugol](https://visualg.com.br/)
+-[(C++ online)](https://cpp.sh/)
 
 ## 🔗 Outros Links Úteis
 
