@@ -135,7 +135,9 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Mistral](https://huggingface.co/mistralai)
 - [Qwen](https://huggingface.co/Qwen)
 - [DeepSeek](https://huggingface.co/deepseek-ai)
-  
+- [Openrouter](https://openrouter.ai/)
+
+- 
 ### 🔍 Detectores de IA
 - [ZeroGPT](https://www.zerogpt.com/pt)
 - [Humanize AI Text](https://humanizeaitext.ai/pt)
@@ -152,6 +154,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Dia](https://app.diagrams.net/)
 - [Mapas Mentais markdown](https://markmap.js.org/repl)
 - [DB Diagrama](https://dbdiagram.io/home)
+- [Markdown online](https://md2file.com/editor/)
   
 ---
 
