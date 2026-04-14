@@ -76,6 +76,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [FFFuel - Generative Grids](https://www.fffuel.co/)
 - [Extrair codigo fonte site](https://www.view-page-source.com/)
 - [Sites modelo prompt](https://21st.dev/home)
+- [Codepen](https://codepen.io)
 
 ---
 
