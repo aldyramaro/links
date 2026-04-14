@@ -141,6 +141,9 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [DeepSeek](https://huggingface.co/deepseek-ai)
 - [Openrouter](https://openrouter.ai/)
 - [Diagrama para ia entender](leapter.com)
+- [MCP](https://mcpmarket.com/)
+- [Raspar site](modal.com)
+- 
 
 - 
 ### 🔍 Detectores de IA
