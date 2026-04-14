@@ -136,6 +136,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Qwen](https://huggingface.co/Qwen)
 - [DeepSeek](https://huggingface.co/deepseek-ai)
 - [Openrouter](https://openrouter.ai/)
+- [Diagrama para ia entender](leapter.com)
 
 - 
 ### 🔍 Detectores de IA
