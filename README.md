@@ -74,6 +74,8 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [SpriteFusion - Editor de Sprites](https://www.spritefusion.com/editor)
 - [Sidescroller Pixel Art Pack](https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16)
 - [FFFuel - Generative Grids](https://www.fffuel.co/)
+- [Extrair codigo fonte site](https://www.view-page-source.com/)
+- [Sites modelo prompt](https://21st.dev/home)
 
 ---
 
@@ -196,6 +198,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 ### 🔤 Fontes
 - [WhatTheFont](https://www.myfonts.com/pages/whatthefont)
 - [FontSpace - Single Line](https://www.fontspace.com/category/single-line?p=3)
+- 
 
 ### Flash Firmware
 - [Espflash](https://ghostesp.net/)
