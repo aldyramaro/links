@@ -143,7 +143,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Diagrama para ia entender](leapter.com)
 - [MCP](https://mcpmarket.com/)
 - [Raspar site](modal.com)
-- 
+- [Comparativo](https://artificialanalysis.ai/models)
 
 - 
 ### 🔍 Detectores de IA
