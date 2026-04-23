@@ -145,6 +145,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Raspar site](modal.com)
 - [Comparativo](https://artificialanalysis.ai/models)
 - [Google Studio](https://aistudio.google.com/prompts/new_chat)
+- [Muitas ias no mesmo chat](https://arena.ai/)
 
 - 
 ### 🔍 Detectores de IA
