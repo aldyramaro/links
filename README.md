@@ -103,6 +103,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Redes](https://router-network.com/pt)
 - [Impressoras Código de Erro](https://printcopy.info/)
 - [BootKeys](http://www.boot-keys.org/)
+- [Clonar visual de sites](https://dribbble.com/shots/popular/web-design)
 
 ### 🛠️ Sysinternals
 - [RAMMap](https://learn.microsoft.com/pt-br/sysinternals/downloads/rammap)
