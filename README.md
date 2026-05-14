@@ -166,6 +166,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Mapas Mentais markdown](https://markmap.js.org/repl)
 - [DB Diagrama](https://dbdiagram.io/home)
 - [Markdown online](https://md2file.com/editor/)
+- [Markdown to PDF](https://apitemplate.io/pdf-tools/convert-markdown-to-pdf/)
   
 ---
 
