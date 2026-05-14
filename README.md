@@ -201,6 +201,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 ## Aulas
 -[Portugol](https://visualg.com.br/)
 -[(C++ online)](https://cpp.sh/)
+-[Simulador sistemas](https://copy.sh/v86/)
 
 ## 🔗 Outros Links Úteis
 
