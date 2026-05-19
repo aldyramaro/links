@@ -78,6 +78,9 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Sites modelo prompt](https://21st.dev/home)
 - [Codepen](https://codepen.io)
 - [Trocar de html/java](app.gohighlevel.com)
+- [Edit](https://edit.org/)
+- [Excalidraw top](https://excalidraw.com/)
+- 
 
 ---
 
@@ -116,7 +119,10 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 ### 🔗 Remote Access
 - [MobaXterm](https://mobaxterm.mobatek.net/)
 
----
+### SQL
+-[Curso e simulador](https://sqlweb.com.br/)
+-[Simulador](https://www.db-fiddle.com/)
+-[Simulador II](https://sqlfiddle.com/)
 
 ## 🤖 IA e Ferramentas de Texto
 - [Conjunto de IA](https://www.toolify.ai/)
@@ -148,7 +154,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Google Studio](https://aistudio.google.com/prompts/new_chat)
 - [Muitas ias no mesmo chat](https://arena.ai/)
 
-- 
+ 
 ### 🔍 Detectores de IA
 - [ZeroGPT](https://www.zerogpt.com/pt)
 - [Humanize AI Text](https://humanizeaitext.ai/pt)
