@@ -91,6 +91,8 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Portas Lógicas circuito](https://www.build-electronic-circuits.com/7400-series-integrated-circuits/).
 - [Resistores](https://www.dannyg.com/examples/res2/resistor.htm)
 - [Falstad](https://www.falstad.com/circuit/circuitjs.html)
+- [Animator](https://animator.wokwi.com/)
+- [Circuito kit Design](https://app.cirkitdesigner.com/project)
 ---
 
 ## 💻 Ferramentas de Produtividade e TI
