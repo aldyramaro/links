@@ -231,5 +231,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 ### Minecraft
 -[Chunkbase](https://www.chunkbase.com/apps)
 -[Seeds](https://www.seeds.gg/dungeon-finder)
+-[Conversor de esquemas](https://bloxelizer.com/converter)
+
 ---
 **📌 Última atualização**: 
