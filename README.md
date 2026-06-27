@@ -232,6 +232,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 -[Chunkbase](https://www.chunkbase.com/apps)
 -[Seeds](https://www.seeds.gg/dungeon-finder)
 -[Conversor de esquemas](https://bloxelizer.com/converter)
+-[Site com esquemas](https://crabmatica.crabcore.org/)
 
 ---
 **📌 Última atualização**: 
