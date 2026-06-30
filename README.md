@@ -21,6 +21,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Pacdora](https://www.pacdora.com/tools/box-template-maker)
 - [Bento](https://bento3d.design/tray)
 - [Porta Ferramentas](https://skapa.build/)
+- [Arquivista](https://oarquivista.com/gerador-caixas)
 - [Ferramentas molde](https://www.tooltrace.ai/designer)
 
 ### ⬇️ Downloads de Arquivos DXF/SVG
