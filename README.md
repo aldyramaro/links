@@ -222,6 +222,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 
 ### Flash Firmware
 - [Espflash](https://ghostesp.net/)
+- [Esp](https://espterminator.com/)
 
 ### 📲 QR Code
 - [QR Code Monkey](https://www.qrcode-monkey.com/pt/#url)
