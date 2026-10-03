@@ -94,6 +94,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Falstad](https://www.falstad.com/circuit/circuitjs.html)
 - [Animator](https://animator.wokwi.com/)
 - [Circuito kit Design](https://app.cirkitdesigner.com/project)
+- [Digikey](https://www.digikey.com.br/en/schemeit/project)
 ---
 
 ## 💻 Ferramentas de Produtividade e TI
