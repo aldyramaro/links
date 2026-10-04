@@ -23,6 +23,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Porta Ferramentas](https://skapa.build/)
 - [Arquivista](https://oarquivista.com/gerador-caixas)
 - [Ferramentas molde](https://www.tooltrace.ai/designer)
+- [Box](https://www.mylasertools.com/3d-grid-box-generator)
 
 ### ⬇️ Downloads de Arquivos DXF/SVG
 - [VetorMaker](https://vetormaker.com.br/index.php)
