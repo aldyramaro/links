@@ -45,6 +45,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 - [Imag-R - Puzzle](https://www.imag-r.com/puzzle)
 
 ### 🖼️ Conversores e Vetorizadores de Imagem
+- [RasterGo](https://rastergo.com/) — prepara fotos para gravação com redimensionamento, dithering local e exportação PNG; interface em inglês, uma foto grátis e lote opcional pago.
 - [RapidResizer - Tracer](https://online.rapidresizer.com/tracer.php)
 - [Kittl - Vectorizer](https://www.kittl.com/tools/vectorizer)
 - [PictureToPeople - Sketch Effect](https://www.picturetopeople.org/photo_sketch/pen-ink-engraved-drawing-photo-effect-editor.html)
