@@ -241,6 +241,7 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 -[Conversor de esquemas](https://bloxelizer.com/converter)
 -[Site com esquemas](https://crabmatica.crabcore.org/)
 -[Site com legal com versões](https://market.phantom-node.com/explore?q=house)
+-[Gerador blocos papel](https://www.pixelpapercraft.com/print/minecraft-block)
 
 ---
 **📌 Última atualização**: 
