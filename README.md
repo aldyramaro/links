@@ -131,6 +131,11 @@ Coleção categorizada de links úteis para corte a laser, design, eletrônica, 
 -[Simulador](https://www.db-fiddle.com/)
 -[Simulador II](https://sqlfiddle.com/)
 
+### HTML CSS
+-[Biblioteca skill](https://www.tasteskill.dev/)
+-[Modelos](http://transitions.dev/)
+-[Efeitos](https://reactbits.dev/)
+
 ## 🤖 IA e Ferramentas de Texto
 - [Conjunto de IA](https://www.toolify.ai/)
 - [Desenhho](https://ideogram.ai/t/explore)
